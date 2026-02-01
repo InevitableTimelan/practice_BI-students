@@ -100,8 +100,8 @@ BI数据集/
 
 1. 克隆项目：
 bash
-git clone https://github.com/yourusername/BI-student-analysis.git
-cd BI-student-analysis
+git clone https://github.com/InevitableTimelan/practice_BI-students.git
+cd practice_BI-students
 2. 安装依赖：
 bash
 pip install -r requirements.txt
